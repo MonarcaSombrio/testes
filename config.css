@@ -68,7 +68,8 @@ cont {
 margin: 5px;
 padding: auto;
 background: #000000;
-
+border-radius: 5px;
+width: auto;
 }
 /**/
 /**/
