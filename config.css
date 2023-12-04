@@ -4,6 +4,7 @@ cont {
     margin: 1px;
     background: #141414;
     border-radius: 10px;
+
 }
 
 .cont2 {
@@ -15,7 +16,7 @@ cont {
 }
 
 .box {
-    width: 90%;
+    width: 50%;
 
 }
 
